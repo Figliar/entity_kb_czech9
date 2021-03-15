@@ -1,5 +1,0 @@
-cp -v (--verbose explains what is being done)
-sed -i (immediate changes to file)
-sed -i '/^$/d' (deletes empty lines)
-date +%s > VERSION (writes date and time to VERSION)
-sed '/^\s*$/d' (delete all empty lines)
